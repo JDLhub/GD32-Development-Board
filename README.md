@@ -19,5 +19,11 @@ This document provides an overview of a multi-layered schematic design for a GD3
 * **Design Objective:** Compact, reliable, and modular PCB architecture suitable for embedded electronics, control systems, and R&D applications.
 
 
+
 ![image alt](https://github.com/JDLhub/GD32-Development-Board/blob/8d9fc97945b5dc73c3ce1fa465c556a579b7b614/GD32%20Dev%20Board.jpg)
+
 ![image alt](https://github.com/JDLhub/GD32-Development-Board/blob/66546b16fa8a61377c787a7d29ba9605b7265de9/GD32%20Dev%20Board_2.jpg)
+
+
+### PCB Layout 
+![image alt](https://github.com/JDLhub/GD32-Development-Board/blob/4fe3ae05ea257a90b008e9c4625d5e64f1799b3e/PCB.jpg)
