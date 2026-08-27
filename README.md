@@ -12,3 +12,4 @@ This document provides an overview of a multi-layered schematic design for a GD3
 * **Power Distribution:** Power rails are routed with appropriate trace widths to safely accommodate the expected current requirements.
 
 ![image alt](https://github.com/JDLhub/GD32-Development-Board/blob/8d9fc97945b5dc73c3ce1fa465c556a579b7b614/GD32%20Dev%20Board.jpg)
+![image alt](https://github.com/JDLhub/GD32-Development-Board/blob/66546b16fa8a61377c787a7d29ba9605b7265de9/GD32%20Dev%20Board_2.jpg)
