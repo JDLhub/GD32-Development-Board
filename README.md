@@ -26,4 +26,4 @@ This document provides an overview of a multi-layered schematic design for a GD3
 
 
 ### PCB Layout 
-![image alt](https://github.com/JDLhub/GD32-Development-Board/blob/4fe3ae05ea257a90b008e9c4625d5e64f1799b3e/PCB.jpg)
+![image alt](https://github.com/JDLhub/GD32-Development-Board/blob/877078a8d52796540e72f3c0e0faa1a950106f9b/PCB%20layout.jpg)
